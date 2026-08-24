@@ -5,7 +5,7 @@ This guide walks you through creating your first task in TaskFlow in under 5 min
 - A modern web browser (Chrome, Firefox, or Safari)
  ## Step 1: Log in and open your workspace 
 1. Go to app.taskflow.io and sign in with your email and password.
-2. On the dashboard, click **My Workspace** in the left sidebar.
+2. On the dashboard, click **My Workspace** in the left sidebar.s
 Your workspace is your personal task board. Team workspaces appear below it if your account is part of an organization. 
 ## Step 2: Create your first task 
 1. Click the **+ New task** button in the top-right corner of your workspace.
