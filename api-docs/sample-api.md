@@ -39,10 +39,10 @@ curl -X POST https://api.taskflow.io/v1/tasks \
 
 ```
   
-### Error responses 
+### Error responses
+
 | Status | Code | Description |
 | --- | --- | --- |
 | 400 | invalid_field | A required field is missing or malformed |
 | 401 | unauthorized | Token is missing or expired |
 | 422 | validation_error | Due date is in the past |
-
