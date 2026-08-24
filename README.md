@@ -1,5 +1,4 @@
 
-# Imagine — Documentation Websit 
 **What to expect:** API references, developer guides, SDK docs, release notes, onboarding tutorials
 **Audience:** Developers, Technical Writers
 
